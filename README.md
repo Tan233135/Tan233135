@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Tan233135
+- 👋 Hi, I’m Tanvir
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Machine learning
 - 📫 How to reach me artanvir101@outlook.com
 <!---
 Tan233135/Tan233135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
